@@ -1,0 +1,16 @@
+.small-text {
+  font-size: .75rem;
+}
+
+.actor-list {
+  max-height: 15.5rem;
+  overflow: hidden;
+}
+
+.loading-segment {
+  min-height: 100px;
+}
+
+.loading-actors-list {
+  min-height: 150px;
+}
